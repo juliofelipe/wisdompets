@@ -1,3 +1,1 @@
-#Aplicativo para adoção de Pets
 
-Aplicativo com modelo e campos de dados, consultando o banco de dados e usando os manipuladores de URL, as visualizações e os modelos de URL incorporados na estrutura para estruturar o restante do back-end. Além disso, foi aplicado CSS e JavaScript para aprimorar o estilo e a usabilidade dos modelos de Django.
